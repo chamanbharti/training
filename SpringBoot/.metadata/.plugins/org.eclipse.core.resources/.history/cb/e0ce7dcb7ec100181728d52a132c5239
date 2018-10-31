@@ -1,0 +1,5 @@
+package com.spring.chap2.config;
+
+public class DataConfig {
+
+}

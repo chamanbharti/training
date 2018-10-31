@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\eBook\Training\SpringMVC\Ex_Files_Spring_MVC\Exercise Files\Ch2\02_03\End\spring_mvc_project"/>
+		<item value="D:\eBook\Training\SpringMVC\Ex_Files_Spring_MVC\Exercise Files\Ch2\02_01\Begin\spring_mvc_project"/>
+		<item value="D:\eBook\Training\IOC-AOP\Ex_Files_Spring_Framework_Depth\Exercise Files\Chapter 2\02_01\End"/>
+		<item value="D:\eBook\Training\IOC-AOP\Ex_Files_Spring_Framework_Depth\Exercise Files\Chapter 2\02_01\Begin"/>
+		<item value="D:\eBook\Training\SpringBoot\Ex_Files_Spring_Boot_EssT\Exercise Files\Chapter 6\06_04\06_04_Begin\service-logging"/>
+		<item value="D:\eBook\Training\SpringBoot\Ex_Files_Spring_Boot_EssT\Exercise Files\Chapter 6\06_04\06_04_Begin\room-web-app"/>
+		<item value="D:\eBook\Training\SpringBoot\Ex_Files_Spring_Boot_EssT\Exercise Files\Chapter 6\06_04\06_04_Begin\room-clr-app"/>
+		<item value="D:\eBook\Training\SpringBoot\Ex_Files_Spring_Boot_EssT\Exercise Files\Chapter 6\06_04\06_04_Begin\room-cleaner-consumer"/>
+		<item value="D:\eBook\Training\SpringBoot\Ex_Files_Spring_Boot_EssT\Exercise Files\Chapter 6\06_04\06_04_Begin\logging-spring-boot-starter"/>
+		<item value="D:\eBook\Training\SpringBoot\Ex_Files_Spring_Boot_EssT\Exercise Files\Chapter 6\06_04\06_04_Begin\logging-spring-boot-autoconfigure"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>

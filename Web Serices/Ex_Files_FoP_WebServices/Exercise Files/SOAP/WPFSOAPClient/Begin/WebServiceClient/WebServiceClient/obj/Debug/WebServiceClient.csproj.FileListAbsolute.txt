@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\MainWindow.baml
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\App.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient_MarkupCompile.cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.g.resources
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\David\Documents\Visual Studio 2012\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.pdb

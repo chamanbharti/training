@@ -1,0 +1,12 @@
+package com.spring.model;
+
+import java.math.BigDecimal;
+
+public class Product {
+
+	 	private String itemId;
+	    private String name;
+	    private BigDecimal cost;
+	    private BigDecimal price;
+	    private String sku;
+}

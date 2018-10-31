@@ -1,0 +1,17 @@
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\model\Customer.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\entity\SalesOrderLineEntity.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\repository\CustomerRepository.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\entity\CustomerEntity.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\config\AppConfig.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\entity\SalesOrderEntity.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\AppConfig.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\service\OrderService.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\repository\InventoryItemRepository.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\model\Order.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\service\impl\OrderServiceImpl.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\config\DataConfig.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\model\Product.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\service\impl\InventoryServiceImpl.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\entity\InventoryItemEntity.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\service\InventoryService.java
+D:\eBook\Training\SpringBoot\spring-core-tutorial\src\main\java\com\spring\chap2\data\repository\SalesOrderRepository.java

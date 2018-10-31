@@ -1,0 +1,34 @@
+package com.spring.service.impl;
+
+import java.util.Map;
+
+import com.spring.data.repository.InventoryItemRepository;
+import com.spring.model.Product;
+import com.spring.service.InventoryService;
+
+public class InventoryServiceImpl implements InventoryService{
+
+	private final InventoryItemRepository inventoryItemRepository;
+	
+	public InventoryServiceImpl(InventoryItemRepository inventoryItemRepository) {
+		this.inventoryItemRepository = inventoryItemRepository;
+	}
+	@Override
+	public Map<Product, Long> getTotalInventoryOnHand() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public long getQuantityOnHand(String itemId) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void adjustInventory(String itemId, long quantity) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
